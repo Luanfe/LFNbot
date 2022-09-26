@@ -38,9 +38,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['558599054750'] //ur owner number
 global.ownername = "LFN bot" //ur owner name
-global.ytname = "YT: Em Breve !!" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.ytname = "Em Breve !!" //ur yt chanel name
+global.socialm = "LFNbot" //ur github or insta name
+global.location = "Brasil" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['558599054750']
@@ -55,12 +55,12 @@ global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "LFN bot" //ur sticker watermark packname
 global.author = "LFN" //ur sticker watermark author
-global.footer = "® BOT ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "® LFNbot ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.allmenuimg ="https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.welcomeimg= "https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.gbyeimg = "https://telegra.ph/file/1f22a0a9627a019dded83.png"
-global.alivemsg = "Olá !"
+global.alivemsg = "Boa"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
