@@ -36,16 +36,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['5511945283577'] //ur owner number
+global.vcardowner = ['558599054750'] //ur owner number
 global.ownername = "LFN bot" //ur owner name
 global.ytname = "YT: Em Breve !!" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['5511945283577']
-global.ownertag = '5511945283577' //ur tag number
-global.botnumber = '5511945283577' //Add your Bot Number For Log
+global.owner = ['558599054750']
+global.ownertag = '558599054750' //ur tag number
+global.botnumber = '558599054750' //Add your Bot Number For Log
 global.botname = 'LFN bot' //ur bot name
 global.ig = "https://youtu.be/" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/" //ur website to be displayed
@@ -60,7 +60,7 @@ global.aliveimg ="https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.allmenuimg ="https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.welcomeimg= "https://telegra.ph/file/1f22a0a9627a019dded83.png"
 global.gbyeimg = "https://telegra.ph/file/1f22a0a9627a019dded83.png"
-global.alivemsg = "testeඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "Olá !"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['558599054750'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
